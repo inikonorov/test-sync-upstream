@@ -1,0 +1,6 @@
+{
+  "name": "test-sync-upstream",
+  "version": "0.3.0",
+  "main": "src/index.js",
+  "license": "MIT"
+}
